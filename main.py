@@ -44,7 +44,7 @@ try:
         supervisor.agregar_empleado()
         contador2 = contador2 + 1
 
-    # Mostrar
+    # Mostrar información
     print("\n______________________")
     print("Nominas de empleadores")
     print("______________________")
